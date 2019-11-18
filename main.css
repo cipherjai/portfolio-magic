@@ -1,7 +1,7 @@
 .main-header{
     font-family: 'Poppins';
     font-weight: 800;
-    font-size: 8vw;
+    font-size: 6vw;
     font-display: block;
     margin: 0.1vw;
 }
@@ -9,6 +9,6 @@
 .punch-line{
     font-family: 'Merriweather', 'Gill Sans', 'Gill Sans MT';
     font-weight: 400;
-    font-size: 4vw;
+    font-size: 3vw;
     font-display: block;
 }
